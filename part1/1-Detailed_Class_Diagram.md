@@ -1,6 +1,3 @@
-
----
-
 ### Tâche 1 : Detailed Class Diagram for Business Logic Layer
 **Nom du fichier** : `1-Detailed_Class_Diagram.md`
 
@@ -12,9 +9,6 @@ Concevoir un diagramme de classes détaillé pour la couche logique métier, en 
 2. **Notes Explicatives** : Décris chaque classe, ses attributs, et ses méthodes.
 
 ```markdown
-# Detailed Class Diagram for Business Logic Layer
-
-## Diagramme de Classes
 ```mermaid
 classDiagram
 class User {
