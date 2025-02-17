@@ -11,8 +11,6 @@ Concevoir un diagramme de classes détaillé pour la couche logique métier, en 
 1. **Diagramme de Classes** : Crée un diagramme de classes UML pour représenter les entités et leurs relations.
 2. **Notes Explicatives** : Décris chaque classe, ses attributs, et ses méthodes.
 
-**Exemple de Contenu du Fichier**
-
 ```markdown
 # Detailed Class Diagram for Business Logic Layer
 
